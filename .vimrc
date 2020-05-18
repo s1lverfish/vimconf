@@ -6,7 +6,7 @@ Plug 'morhetz/gruvbox'
 call plug#end()
 
 
-inoremap jj <ESC>
+inoremap jk <ESC>
 
 set background=dark
 colorscheme gruvbox
