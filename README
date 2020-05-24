@@ -1,3 +1,3 @@
-#write this into command prompt to set .vimrc path
+#write this into your .bashrc file to set .vimrc path
 export VIMINIT='source $MYVIMRC'
 export MYVIMRC='~/vimconf/.vimrc'
